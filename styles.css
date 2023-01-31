@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+table,thead,th,td{
+	border:2px solid black;
+	border-collapse:collapse;
+}
+td{
+	width: 150px;
+}
